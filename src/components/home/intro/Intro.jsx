@@ -10,7 +10,8 @@ export default function Intro() {
                 <h1>Teste dos temperamentos</h1>
                 <img src="assets/intro.png" alt="intro" />
                 <div className="home-info">
-                Todos nós temos um temperamento e conhecer qual é o seu e perceber qual é o dos outros pode te ajudar a construir relações mais saudáveis.
+                EU te vejo, eu te escuto.<br/>
+                Vamos juntos rumo ao amadurecimento.
                 </div>
                     <Link className="link" to="/recomendations">Descubra agora</Link>
             </div>
